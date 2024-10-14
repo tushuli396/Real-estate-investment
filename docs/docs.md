@@ -2,6 +2,10 @@
 
 # Methodology 
 
+# Tech Stack
+  1. Python
+  2. PowerBI
+
 # Explanation
 
 # Contribution
