@@ -1,1 +1,5 @@
+# HIGH LEVEL OVERVIEW OF THE PROJECT
 
+# Goals
+
+# Key Findings
