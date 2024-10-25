@@ -39,6 +39,9 @@ This repository serves as a standard template for organizing data science and ma
 5. Place your code in the `src/` directory.
 6. Update this README with project-specific information and visuals.
 
+## Contributers
+Tushuli, Anurag, Saurav
+
 ## Contributing
 
 This template is maintained by DataDrooler.com 
